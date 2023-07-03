@@ -1,2 +1,2 @@
-# pythonguilab
-basic python gui lab 
+# python labs
+basic python labs
